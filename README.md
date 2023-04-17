@@ -1,2 +1,2 @@
-# SofiaFigueroa.github.io
+# sofiafigueroa.github.io
 Sof's Portfolio
