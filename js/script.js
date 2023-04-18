@@ -8,9 +8,9 @@ function getRandomColor() {
 }
 
 const changeColorBtn = document.getElementById('change-color-btn');
-const body = document.body;
+const nav = document.body;
 
 changeColorBtn.addEventListener('click', function() {
-  body.style.backgroundColor = getRandomColor();
+  nav.style.backgroundColor = getRandomColor();
 });
 
